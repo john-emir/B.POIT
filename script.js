@@ -1,4 +1,4 @@
-let url = "http://john-emir.github.io/A.POIT/"
+let url = "http://john-emir.github.io/A.POIT"
 function loadBodyPage(taskId){
     fetch(url)
     .then(function(response){
